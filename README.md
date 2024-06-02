@@ -7,4 +7,4 @@ Mi nombre de batalla es Zidrave y soy de Peru, saluditos!
 * Python codificacion
 
 ## Contactar
-Buscarme puede en: [Zidrave.net](https://www.zidrave.net)
+Buscarme puede en: [Zidrave.net](https://zidrave.net)
